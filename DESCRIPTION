@@ -1,0 +1,5 @@
+Title: Data cleaning lab report
+Depends:
+  R (>= 3.5)
+Imports:
+  tidyverse
